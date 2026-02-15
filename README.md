@@ -1,4 +1,4 @@
-<h1> Projeto Meu E-commercer </h1>
+<h1> Projeto Meu E-commerce </h1>
 <br
 <br
 <h2>Esse é um dos projetos que aprendi no <a href="https://devclub.com.br">DevClub</h2> 

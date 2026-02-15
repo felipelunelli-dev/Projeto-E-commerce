@@ -12,4 +12,4 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/felipelunelli-dev/Projeto-PetShop/refs/heads/main/img/Responsividade.png"/>
+<img src="https://github.com/felipelunelli-dev/Projeto-E-commerce/blob/main/img/Responsividade.png"/>
